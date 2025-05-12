@@ -2,7 +2,7 @@
 ### Hello World 👋
 I am a fullstack software engineer from México
 
-- 🔭 Working on multiple projects using Rust, Julia, Swift, Kotlin, C++ 
+- 🔭 Working on multiple projects using Rust, Julia, Swift, Kotlin, C++, Vue 
 - 🌱 Learning Data Science, AI, Gaming Deveplopment
 <br>
 
