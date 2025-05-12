@@ -36,11 +36,13 @@ I am a fullstack software engineer from México
 
 <img align="left" alt="POSTGRESQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+<br>
 
-
+<img align="left" alt="Contract Solidity" src="https://img.shields.io/badge/Solidity-purple?style=flat-square&logo=solidity&logoColor=white&label=Contract&labelColor=%23DBA507&color=%237B1FA2" />
 
 <br>
 <br>
+
 
 
 <!--
