@@ -33,7 +33,7 @@ I am a fullstack software engineer from México
 <br>
 <br>
 
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="POSTGRESQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 
 
